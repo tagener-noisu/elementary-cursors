@@ -6,7 +6,7 @@ A cursor theme for elementary OS.
 These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
 
 ###Preview
-![Preview image](https://github.com/tagener-noisu/elementary-cursors/blob/preview/misc/cursor_preview.png?raw=true)
+![Preview image](https://github.com/tagener-noisu/elementary-cursors/blob/master/misc/cursor_preview.png?raw=true)
 
 ###Installing 
 
